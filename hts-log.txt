@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 04 Jul 2025 14:09:47 at https://madebydesignesia.com/themes/stradale/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://madebydesignesia.com/themes/stradale/index.html -O1 "C:\Users\Erpa\Desktop\BeutyFuar\digital" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:10:33	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/css/owl.video.play.png (from https://madebydesignesia.com/themes/stradale/css/plugins.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images/ui/arrow-down-form.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images/ui/arrow-down-form-hover.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/dotted.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/icon-slide-plus.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/icon-slide-min.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/close.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/close-2.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/icon-url.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/icon-zoom.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images_02/list-arrow.png (from https://madebydesignesia.com/themes/stradale/css/style.css)
+14:10:39	Error: 	"Not Found" (404) at link https://madebydesignesia.com/themes/stradale/images/background/bg-header.jpg (from https://madebydesignesia.com/themes/stradale/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 159 links scanned, 146 files written (13990715 bytes overall) [11405743 bytes received at 215202 bytes/sec], 3326967 bytes transferred using HTTP compression in 38 files, ratio 19%, 15.9 requests per connection
+(12 errors, 0 warnings, 0 messages)
